@@ -6,6 +6,8 @@ Test1::Test1(QWidget *parent) :
     ui(new Ui::Test1)
 {
     ui->setupUi(this);
+    /**
+     *
 }
 
 Test1::~Test1()
