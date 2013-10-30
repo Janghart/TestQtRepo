@@ -7,6 +7,8 @@ Test1::Test1(QWidget *parent) :
 {
     ui->setupUi(this);
     /**
+
+      asfad
      *
 }
 
